@@ -1,8 +1,10 @@
 Citation
-  License CC0: Public Domain
+  License CC0: Public Domain
+
   Domain: Public
   Sources: Craigslist.org
-  Dataset owner: Austin Reese
+  Dataset owner: Austin Reese
+
   Date created: 2020-01-07
 
 Attributes
